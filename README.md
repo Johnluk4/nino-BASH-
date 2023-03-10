@@ -1,0 +1,2 @@
+# nino-BASH-
+Miners 
